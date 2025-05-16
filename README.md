@@ -1,4 +1,4 @@
-<h1 align="center">Khushi Atrey</h1> <h3 align="center">Data Analyst | Computer Science Engineering Student</h3> <p align="center"> <em>Transforming raw data into actionable business insights</em> </p>
+<h1 align="center">Khushi Atrey</h1> <h3 align="center">Data Analyst | Computer Science Engineering Student</h3>
 📊 About Me
 I'm a passionate data analyst and final year BTech student in Computer Science Engineering at SRM University. I specialize in data-driven decision making, statistical analysis, and creating meaningful visualizations that tell stories from complex datasets.
 
@@ -15,7 +15,6 @@ Correlation analysis and regression techniques
 Data Engineering
 
 Data cleaning, transformation, and preparation
-ETL workflow development
 Database design and optimization
 Data Visualization
 
