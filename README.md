@@ -36,4 +36,4 @@ Email: Khushiatrey011@gmail.com
 Academic: Ka5052@srmist.edu.in
 LinkedIn: khushi-atrey-9a145625a
 HackerRank: ka5052
-<p align="center"> <em>"In God we trust, all others must bring data." — W. Edwards Deming</em> </p>
+
