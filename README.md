@@ -10,7 +10,7 @@ All of my projects are available at github.com/khushi2411
 Skills
 Programming Languages: C, C++, Python, JavaScript
 Web Development: HTML, CSS, React, Next.js
-Database: MySQL
+Database: MySQL,  Postgres
 Tools & Technologies: Data Analysis, Git, GitHub
 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/khushi-atrey-9a145625a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-atrey-9a145625a" height="30" width="40" /></a> <a href="https://instagram.com/khushiatreyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khushiatreyy" height="30" width="40" /></a> <a href="https://www.hackerrank.com/ka5052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ka5052" height="30" width="40" /></a> </p>
